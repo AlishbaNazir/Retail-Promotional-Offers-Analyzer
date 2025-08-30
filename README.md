@@ -3,6 +3,8 @@
 This project focuses on **analyzing retail promotional offers** through **data preprocessing, exploratory data analysis (EDA), and visualization** using multiple tools. The goal was to improve data quality, extract insights into customer behavior, and evaluate the effectiveness of promotional campaigns.
 
 ---
+![image alt](https://github.com/AlishbaNazir/Retail-Promotional-Offers-Analyzer/blob/main/ChatGPT%20Image%20Aug%2030,%202025,%2007_40_59%20PM.png?raw=true)
+---
 
 ## 🚀 Project Overview
 
